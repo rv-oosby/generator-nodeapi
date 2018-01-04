@@ -1,0 +1,17 @@
+{
+  "name": "generator-nodeapi",
+  "version": "0.1.0",
+  "description": "scaffold node api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Olivia Osby oosby@redventures.com",
+  "license": "ISC",
+  "files": [
+    "generators"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^2.0.1"
+  }
+}
